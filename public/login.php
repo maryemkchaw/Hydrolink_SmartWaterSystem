@@ -1,3 +1,5 @@
+
+
 <?php
 session_start();
 require_once 'db_connect.php';
@@ -114,6 +116,8 @@ $conn->close();
 
 <!DOCTYPE html>
 <html lang="en">
+    <!-- Git practice: Issue #5 - Application validation -->
+
 
 <head>
     <meta charset="utf-8">
