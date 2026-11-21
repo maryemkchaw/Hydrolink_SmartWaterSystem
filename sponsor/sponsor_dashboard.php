@@ -1,4 +1,5 @@
 <?php
+// Git practice: Issue #4 - Sponsor navigation
 session_start();
 require_once 'db_connect.php';
 
