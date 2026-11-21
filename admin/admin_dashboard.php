@@ -1,3 +1,5 @@
+<!-- Git practice: Issue #2 - Admin dashboard -->
+
 <?php
 session_start();
 $current_page = basename($_SERVER['PHP_SELF']); // e.g., "admin_dashboard.php"
