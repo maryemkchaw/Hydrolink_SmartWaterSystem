@@ -1,7 +1,7 @@
 # Latest update by Maryem
 
 # Hydrolink- Maryem: Smart Water Distribution System
-
+# Maryem modified this file.
 ## Project Overview
 Hydrolink is a smart water distribution system that integrates **PHP**, **MySQL**, **IoT sensors**, **QR-code authentication**, and **blockchain-based secure transactions**. The system improves water accessibility, resource management, and transparency for stakeholders.
 
