@@ -1,4 +1,5 @@
-# Hydrolink: Smart Water Distribution System
+## Project description: Hydrolink - Maram
+
 
 ## Project Overview
 Hydrolink is a smart water distribution system that integrates **PHP**, **MySQL**, **IoT sensors**, **QR-code authentication**, and **blockchain-based secure transactions**. The system improves water accessibility, resource management, and transparency for stakeholders.
